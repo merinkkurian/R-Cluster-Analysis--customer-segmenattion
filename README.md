@@ -7,3 +7,7 @@ Customer segmentation is one of the key components of any marketing plan. Arguab
 To be able to answer these 3 questions, the segmentation has to be (1) actionable, (2) differentiable, and (3) have an economic perspective in mind.
 
 In this Case Study, I segment customers based on demographic characteristics and personal characteristics, totaling 16 in the end. The technique of choice is Kmeans, one of the most simple clustering techniques. The output is 6 characteristics that are interpretable, actionable, and that takes an economic perspective mind
+
+
+libraries used: dplyr,factoextra,fastdummies
+Refrences:https://www.youtube.com/watch?v=Zuq1jh8PWpo&list=PLgA5SQwIXgQpJDdkb1-VmqPeyHWLBIl5x&index=2&t=1610s
