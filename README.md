@@ -1,4 +1,4 @@
-# R-Cluster-Analysis--customer-segmenattion
+# R-Cluster-Analysis--customer-segmentation
 
 Customer segmentation is one of the key components of any marketing plan. Arguably, a great segmentation addresses the following questions:
 1) Who are the target customers?
